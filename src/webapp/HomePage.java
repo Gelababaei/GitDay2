@@ -8,7 +8,7 @@ public class HomePage {
 
     //more thing for the homepage
 //mor thing
-
+//footer
 
 
 
